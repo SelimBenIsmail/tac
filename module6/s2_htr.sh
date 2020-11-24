@@ -7,5 +7,5 @@ cd SimpleHTR/
 pip install -r requirements.txt 
 cd model/
 unzip model.zip 
-cd ..src/
+cd ../src/
 python main.py
